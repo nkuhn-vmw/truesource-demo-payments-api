@@ -1,0 +1,6 @@
+# Intentionally old images: a TrueSource Viewer demo, do not run.
+services:
+  db:
+    image: bitnami/postgresql:11.22.0
+  cache:
+    image: bitnami/redis:6.2.6
